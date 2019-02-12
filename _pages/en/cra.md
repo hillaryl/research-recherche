@@ -6,4 +6,4 @@ permalink: "/cra/"
 trans_url: "/arc/"
 ---
 
-Test
+Apple
